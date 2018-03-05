@@ -1,0 +1,113 @@
+body {
+	background-color: #54d17a;
+
+}
+
+#points {
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	padding-bottom: 15px;
+	margin: 2px -370px -25px 50px; 
+	
+
+}
+#points h2 {
+	font-size: 35;
+	position: absolute;
+}
+
+th {
+	border: dotted;
+	border-color: white;
+	padding: 10px 100px 50px 100px;
+}
+
+
+h1 {
+	color: #663300;
+}
+
+h2 {
+	text-align: left;
+	color: white;
+	margin-left: -50px;
+
+}
+
+h3 {
+	text-align: left;
+	color: orange;
+	padding: 0px 5px;
+	margin-top: 0px;
+}
+.treehouse{
+	padding-left: 7px;
+
+}
+
+.login {
+	height:30px;
+
+}
+
+.firstPage{
+	padding-right: 80px;
+	font-family: georgia;
+	color: white;
+}
+
+#login, #signup {
+	background-color: red;
+	color: white;
+	width: 130px;
+	height: 30px;
+	border: solid;
+	border-color: white;
+	margin-top: 10px;
+	
+} 
+
+#signup {
+	background-color: orange;
+}
+
+.topBar a {
+	font-family: georgia;
+	background-color: white;
+	padding: 5px;
+	color: #54d17a;
+	text-decoration: none;
+}
+
+.topBar a:hover { 
+	background-color: #dbdbdb;
+
+}
+
+.topBar {
+	margin: 0px -50px;
+}
+
+#points {
+	font-family: georgia;
+	background-color: white;
+	padding: 5px;
+	color: #54d17a;
+	text-decoration: none;
+
+
+}
+
+
+
+.frontStuff {
+	background-color: white;
+	width: 340px;
+	height: 200;
+	margin: -36px -50px 0px -50px;
+	overflow: auto;
+
+
+}
